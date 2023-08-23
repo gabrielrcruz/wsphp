@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE ifc [
+  <!ELEMENT ifc (curso+)>
+  <!ELEMENT curso (nome, semestres, id_coordenador)>
+  <!ATTLIST curso id CDATA #REQUIRED>
+  <!ELEMENT nome (#PCDATA)>
+  <!ELEMENT semestres (#PCDATA)>
+  <!ELEMENT id_coordenador (#PCDATA)>
+]>
+
+<ifc>
+    <curso id='1'>
+        <nome>Engenharia de Software</nome>
+        <semestres>8</semestres>
+        <id_coordenador>101</id_coordenador>
+    </curso>
+    <curso id='1'>
+        <nome>Engenharia de Software</nome>
+        <semestres>8</semestres>
+        <id_coordenador>101</id_coordenador>
+    </curso>
+</ifc>

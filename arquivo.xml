@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<ifc>
+  <curso>
+    <nome>T&#x98EE;ico em Inform&#x1D29;ca Integrado</nome>
+    <semestres>6</semestres>
+    <coordenador>&#xAE;gelo Frozza</coordenador>
+  </curso>
+  <curso>
+    <nome>sdfsdfdsfdsf</nome>
+    <semestres>6</semestres>
+    <coordenador>&#xAE;gelo Frozza</coordenador>
+  </curso>
+  <curso>
+    <nome>Bacharelado em Sistemas de Informa&#x78EF;</nome>
+    <semestres>8</semestres>
+    <coordenador>Daniel Anderle</coordenador>
+  </curso>
+  <curso>
+    <nome>12</nome>
+    <semestres>2</semestres>
+    <coordenador>Daniel Anderle</coordenador>
+  </curso>
+  <curso>
+    <nome>45</nome>
+    <semestres>2</semestres>
+    <coordenador>Daniel Anderle</coordenador>
+  </curso>
+  <curso>
+    <nome>Curso do Rafael</nome>
+    <semestres>5</semestres>
+    <coordenador>Daniel Anderle</coordenador>
+  </curso>
+  <curso>
+    <nome>asda</nome>
+    <semestres>3</semestres>
+    <coordenador>Daniel Varela</coordenador>
+  </curso>
+  <curso>
+    <nome>Tecnologia em Sistemas para Internet - TSI</nome>
+    <semestres>6</semestres>
+    <coordenador>Rafael Speroni</coordenador>
+  </curso>
+  <curso>
+    <nome>PROEJA</nome>
+    <semestres>6</semestres>
+    <coordenador>Rafael Speroni</coordenador>
+  </curso>
+  <curso>
+    <nome>inserido</nome>
+    <semestres>6</semestres>
+    <coordenador>Rafael Speroni</coordenador>
+  </curso>
+  <curso>
+    <nome>inserido</nome>
+    <semestres>6</semestres>
+    <coordenador>Rafael Speroni</coordenador>
+  </curso>
+  <curso>
+    <nome>teste</nome>
+    <semestres>2</semestres>
+    <coordenador>Rafael Speroni</coordenador>
+  </curso>
+  <curso>
+    <nome>Bacharelado em Agronomia</nome>
+    <semestres>8</semestres>
+    <coordenador>Lidiane Visintin</coordenador>
+  </curso>
+  <curso>
+    <nome>teste2</nome>
+    <semestres>4</semestres>
+    <coordenador>Lidiane Visintin</coordenador>
+  </curso>
+</ifc>
